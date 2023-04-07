@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/bouali-ali-33026072](https://www.linkedin.com/in/balasaheb-karjule-36b35a90)](https://www.linkedin.com/in/balasaheb-karjule-36b35a90/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balasaheb-karjule-36b35a90" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5766271/balasaheb-karjule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/bouali-ali" height="30" width="40" /></a>
+<a href="[[www.linkedin.com/in/balasaheb-karjule-36b35a90](https://www.linkedin.com/in/balasaheb-karjule-36b35a90)](https://www.linkedin.com/in/balasaheb-karjule-36b35a90/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balakoder" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5766271/balasaheb-karjule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/balakoder" height="30" width="40" /></a>
 <a href="https://instagram.com/bala_karjule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bala_koder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="balakoder" height="30" width="40" /></a>
 </p>
