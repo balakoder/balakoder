@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.javacodestuffs.com](https://www.javacodestuffs.com/)
 
-- 💬 Ask me about **Java, Spring, Micro Services, Docker, Kubernetes,Helm Charts,Terraform AWS,Jenkins,DevOps,GitOps,CI-CD, ....**
+- 💬 Ask me about **Java, Spring, Micro Services, Docker, Kubernetes,Helm Charts,Terraform AWS,Jenkins,DevOps,GitOps,CI-CD ....**
 
 - 📫 How to reach me **bala.devops.001@gmail.com**
 
